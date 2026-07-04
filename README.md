@@ -19,3 +19,6 @@ Developed an interactive Sales Analytics Dashboard using Tableau to analyze the 
 ## Dataset
 
 **Sample Superstore Dataset (US Retail Sales Data, 2014–2017)**
+## Live Dashboard
+
+https://public.tableau.com/app/profile/khadija.asif/viz/Book1_17773765396750/FoodandSalesPerformanceDasboard
