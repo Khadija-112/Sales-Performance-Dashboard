@@ -1,5 +1,6 @@
 # Sales-Performance-Dashboard
-
+print(
+    """
 Developed an interactive Sales Analytics Dashboard to analyse business performance of US based retail superstore.
 
 Features: 
@@ -11,3 +12,5 @@ Features:
 Tools used: Tableau
 
 Dataset: Sample Superstore Dataset(US Retail Sales Data 2014-2017)
+"""
+)
